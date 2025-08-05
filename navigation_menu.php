@@ -4,10 +4,10 @@
   echo '<a id = "past_research_work" href = "past_research_work.php"> Past Research Work </a>';
   echo '<a id = "collaboration" href = "collaboration.php"> WaveGen <> M2M Tech Collaboration ►</a>';
   echo '<div class="dropdown">';
-  echo '<a id = "EDA"> Exploratory Data Analysis (EDA) &#9660</a>';
+  echo '<a id = "EDA" > Exploratory Data Analysis (EDA) &#9660</a>';
   echo '<div class="dropdown-content">';
-  echo '<a href="EDA.php"> Phase 1 </a>';
-  echo '<a href="EDA.php"> Phase 2 </a>';
+  echo '<a href="EDA.php" id = "Phase1"> Phase 1 </a>';
+  echo '<a href="EDA.php" id = "Phase2"> Phase 2 </a>';
   echo '</div>';
   echo '</div>';
   echo '<a id = "Nemoh" href = "nemoh.php"> Nemoh Simulations</a>';

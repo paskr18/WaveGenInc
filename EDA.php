@@ -13,6 +13,7 @@
         const myActive = document.getElementById("EDA");
         myActive.style.backgroundColor="#000080";
         myActive.style.color="#FFFFFF";
+        const Phase = document.getElementById("Phase1");
      </script>
      <div class = "contenu">
 	<h1 style = "width:400px;"> <img src = "images/wavegen_logo.png" style = "float:right; width:100px;"> WaveGen Tech Inc. </h1>
